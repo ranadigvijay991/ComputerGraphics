@@ -12,7 +12,7 @@
 
 
 int xc, yc, r;
-
+//Plotting
 void putpixel(int x, int y)
 
 {
@@ -42,7 +42,7 @@ void putpixel(int x, int y)
       glEnd();
 
 }
-
+//Display
 void display()
 
 {
