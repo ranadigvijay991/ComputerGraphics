@@ -46,6 +46,7 @@ void putpixel(int x, int y)
 void display()
 
 {
+      #Calculating the points
 
       float x, y;
 
